@@ -1,0 +1,12 @@
+{
+  "name": "Plogger",
+  "displayName": "Plogger",
+  "expo": {
+    "name": "Plogger",
+    "slug": "Plogger",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
